@@ -60,14 +60,19 @@ body {
   cursor: pointer;
 }
 
-.card__title:hover {
-  color: var(--primary-color);
-}
-
 .card__description {
   color: var(--neutral-grey);
   margin: 15px 0 20px 0;
   font-size: 0.8rem;
+}
+
+.card__blog-link {
+  text-decoration: none;
+  color: black;
+}
+
+.card__blog-link:hover {
+  color: var(--primary-color);
 }
 
 .contributor {
