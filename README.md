@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/RoyalF4/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://royalf4.github.io/blog-preview-card)
+- Solution URL: [Solution](https://github.com/RoyalF4/blog-preview-card)
+- Live Site URL: [Live](https://royalf4.github.io/blog-preview-card)
 
 ### Built with
 
