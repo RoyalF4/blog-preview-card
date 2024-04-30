@@ -57,6 +57,11 @@ body {
 
 .card__title {
   font-size: 1.3rem;
+  cursor: pointer;
+}
+
+.card__title:hover {
+  color: var(--primary-color);
 }
 
 .card__description {
